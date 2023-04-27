@@ -14,4 +14,7 @@ upcoming interviews for a given user with all the relevant details.
 2. Create the respective backend API(s) needed for this page
    - You can use any database of your choice.
 
+## Submission
+Create a zip of your code and send it to us. Please remove node_modules while creating the zip.
+
 Note: Please feel free to make assumptions on the details not provided.
